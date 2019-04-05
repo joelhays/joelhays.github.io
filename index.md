@@ -1,8 +1,3 @@
----
-layout: page
-title:  "Welcome to Jekyll!"
----
-
 # Hello World
 ## Hello World
 
